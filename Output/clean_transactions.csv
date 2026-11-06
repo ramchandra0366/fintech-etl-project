@@ -1,4 +1,0 @@
-transaction_id,customer_id,transaction_date,amount,currency,status
-T001,C101,2026-11-01,250.00,GBP,SUCCESS
-T002,C102,2026-11-01,89.99,GBP,SUCCESS
-T004,C103,2026-11-02,450.00,GBP,SUCCESS
